@@ -1,0 +1,8 @@
+
+# TODO
+
+these are some small tasks that need to be done... lower on the priority list as, this module serves my purposes for the moment
+
+ - [ ] if download file is a different format from the one downloaded, save it in a more compressed form (choose best compression?)
+ - [ ] ready::release: do sha1 sum too and save it into the manifest
+ - [ ] use localstorage for cache if it's available
